@@ -3,7 +3,7 @@
  *
  * Generator:     sensirion-driver-generator 1.3.3
  * Product:       sps30
- * Model-Version: 1.0.0
+ * Model-Version: 1.0.1
  */
 
 #include "sensirion_common.h"
